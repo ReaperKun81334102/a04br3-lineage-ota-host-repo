@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1765546631",
-      "filename": "lineage-14.1-20251212-UNOFFICIAL-a04br3.zip",
-      "id": "828cfffba2e8ead195936c3feefa2545",
+      "datetime": "17655556631",
+      "filename": "lineage-14.1-20251215-UNOFFICIAL-a04br3.zip",
+      "id": "9b202819d3bac638047e5f3b32a45b60",
       "romtype": "unofficial",
-      "size": "808559919",
-      "url": "https://github.com/ReaperKun81334102/a04br3-lineage-ota-host-repo/releases/download/v1.0.20/lineage-14.1-20251212-UNOFFICIAL-a04br3.zip",
+      "size": "808560192",
+      "url": "https://github.com/ReaperKun81334102/a04br3-lineage-ota-host-repo/releases/download/v1.0.21/lineage-14.1-20251215-UNOFFICIAL-a04br3.zip",
       "version": "14.1"
     }
   ]
